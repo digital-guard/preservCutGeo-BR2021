@@ -1,6 +1,6 @@
-> A cutout of the [Preserv-BR](http://git.digital-guard.org/preserv-BR) data,  with a geographic profile, collecting sources since 2021.
+> A cutout of the [Preserv-BR](https://git.digital-guard.org/preserv-BR) data,  with a geographic profile, collecting sources since 2021.
 
-Recorte dos dados de [Preserv-BR](http://git.digital-guard.org/preserv-BR), com perfil geográfico, coletando fontes datadas de 2021 (2019?) em diante. Neste repositório, "PreservCutGeo-BR2021", os recortes são mantidos por pacote doado e por *layer*. Os pacotes são relativos a um doador (ex. prefeitura) e os *layers* conforme [convenções do projeto Preserv](http://git.digital-guard.org/preserv/blob/main/docs/pt/ftypes.md#com-geometria).
+Recorte dos dados de [Preserv-BR](https://git.digital-guard.org/preserv-BR), com perfil geográfico, coletando fontes datadas de 2021 (2019?) em diante. Neste repositório, "PreservCutGeo-BR2021", os recortes são mantidos por pacote doado e por *layer*. Os pacotes são relativos a um doador (ex. prefeitura) e os *layers* conforme [convenções do projeto Preserv](https://git.digital-guard.org/preserv/blob/main/docs/pt/ftypes.md#com-geometria).
 
 Para maiores detalhes consultar a documentação:
 
@@ -22,11 +22,11 @@ A pasta [/data](data) é a pasta geral dos dados. Exemplo de Belo Horizonte, pac
 * prefixo `pts_` e extensão `.geojson` indica que são pontos formatados em GeoJSON.
 * `7h2wjv` é o "prefixo Geohash" de todos os pontos contidos no arquivo.
 
-Para navegar pelos dados de forma mais amigável usar a páginas no site, atualmente em construção [addressforall.org/teste2](http://addressforall.org/teste2).
+Para navegar pelos dados de forma mais amigável usar a páginas no site, atualmente em construção [addressforall.org/visualization](https://addressforall.org/visualization).
 
 ### Downloads
 
-Para rastrear ou fazer *download* os dados primários doados pela Prefeitura de Belo Horizonte, ver [listagem de dados primários da Digital-Guard](http://docs.digital-guard.org/preserv/pt/list-primaryData-byJurisdic/) ou, conforme configurado em [BR-MG/BeloHorizonte/_pk0008.01](https://github.com/digital-guard/preserv-BR/blob/main/data/MG/BeloHorizonte/_pk0008.01/make_conf.yaml): *download* dos  arquivos originais (preservados por 20 anos) de todos os [pontos em *shapefile* (`1ce29a5`)](http://dl.digital-guard.org/1ce29a555565be5f540ab0c6f93ac55797c368293e0a6bfb479a645a5a23f542.zip).
+Para rastrear ou fazer *download* os dados primários doados pela Prefeitura de Belo Horizonte, ver [listagem de dados primários da Digital-Guard](https://docs.digital-guard.org/preserv/pt/list-primaryData-byJurisdic/) ou, conforme configurado em [BR-MG/BeloHorizonte/_pk0008.01](https://github.com/digital-guard/preserv-BR/blob/main/data/MG/BeloHorizonte/_pk0008.01/make_conf.yaml): *download* dos  arquivos originais (preservados por 20 anos) de todos os [pontos em *shapefile* (`1ce29a5`)](https://dl.digital-guard.org/1ce29a555565be5f540ab0c6f93ac55797c368293e0a6bfb479a645a5a23f542.zip).
 
 ### Colaboração e contato sobre falhas
 
